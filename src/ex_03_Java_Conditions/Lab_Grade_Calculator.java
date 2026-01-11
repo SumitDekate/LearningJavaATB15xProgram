@@ -26,5 +26,7 @@ public class Lab_Grade_Calculator {
             System.out.printf("Grade %c", 'F');
         else
             System.out.println("Invalid score value");
+
+        sc.close();
     }
 }

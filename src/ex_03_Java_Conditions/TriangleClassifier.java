@@ -26,5 +26,7 @@ public class TriangleClassifier {
             System.out.println("This is an Isosceles triangle");
         else
             System.out.println("This is a Scalene triangle");
+
+        sc.close();
     }
 }

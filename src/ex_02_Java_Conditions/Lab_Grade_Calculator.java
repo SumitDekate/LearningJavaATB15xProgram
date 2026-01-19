@@ -1,4 +1,4 @@
-package ex_03_Java_Conditions;
+package ex_02_Java_Conditions;
 
 import java.util.Scanner;
 /**
